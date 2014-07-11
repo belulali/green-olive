@@ -1,0 +1,8 @@
+/Users/pchavez/Projects/c#/Excercises/GreenOliveTests/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/Users/pchavez/Projects/c#/Excercises/GreenOliveTests/bin/Debug/GreenOliveTests.dll.mdb
+/Users/pchavez/Projects/c#/Excercises/GreenOliveTests/bin/Debug/GreenOliveTests.dll
+/Users/pchavez/Projects/c#/Excercises/GreenOliveTests/obj/Debug/GreenOliveTests.dll
+/Users/pchavez/Projects/c#/Excercises/GreenOliveTests/obj/Debug/GreenOliveTests.dll.mdb
+/Users/pchavez/Projects/c#/Excercises/GreenOliveTests/bin/Debug/GreenOlive.exe
+/Users/pchavez/Projects/c#/Excercises/GreenOliveTests/bin/Debug/GreenOlive.exe.mdb
+/Users/pchavez/Projects/c#/Excercises/GreenOliveTests/bin/Debug/Rhino.Mocks.dll

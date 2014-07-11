@@ -1,0 +1,5 @@
+/Users/pchavez/Projects/c#/Excercises/GreenOlive/obj/x86/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/Users/pchavez/Projects/c#/Excercises/GreenOlive/bin/Debug/GreenOlive.exe.mdb
+/Users/pchavez/Projects/c#/Excercises/GreenOlive/bin/Debug/GreenOlive.exe
+/Users/pchavez/Projects/c#/Excercises/GreenOlive/obj/x86/Debug/GreenOlive.exe
+/Users/pchavez/Projects/c#/Excercises/GreenOlive/obj/x86/Debug/GreenOlive.exe.mdb
